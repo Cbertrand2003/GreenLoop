@@ -1,0 +1,3 @@
+<footer>
+  <p>&copy; <%= java.time.Year.now() %> GreenLoop · Built for sustainability</p>
+</footer>
